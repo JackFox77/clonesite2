@@ -1,0 +1,57 @@
+:root {
+  --background: grey;
+}
+
+.heroimg {
+  background-image: url(https://images.unsplash.com/photo-1492681290082-e932832941e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80);
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+}
+
+.img {
+  height: 300px;
+}
+
+.aboutPic {
+  background-image: url(https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=660&q=80);
+  background-position: center;
+}
+
+.aboutsize {
+  height: 40vh;
+}
+
+.portfolio {
+  background-image: url(https://images.unsplash.com/photo-1604854574894-1be73ca43cb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+.workpic {
+  background-image: url(https://placekitten.com/200/200);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
+
+.contactpic {
+  background-image: url(https://images.unsplash.com/photo-1616088886430-ccd86fef0713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+footer {
+  height: 40px;
+}
+
+.imgheight {
+  height: 60vh;
+}
+
+.citypic {
+  background-image: url(https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1194&q=80);
+  background-position: center;
+  background-size: cover;
+}
