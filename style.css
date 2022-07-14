@@ -1,5 +1,16 @@
 :root {
-  --background: grey;
+  --background: rgb(226, 226, 226);
+  --accents: rgb(177, 177, 177);
+}
+.accents {
+  background-color: var(--accents);
+}
+.primary {
+  background-color: var(--background);
+}
+
+body {
+  background-color: var(--background);
 }
 
 .heroimg {
@@ -29,7 +40,7 @@
 }
 
 .workpic {
-  background-image: url(https://placekitten.com/200/200);
+  background-image: url(https://placekitten.com/220/220);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
